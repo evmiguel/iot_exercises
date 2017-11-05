@@ -1,0 +1,12 @@
+{
+	"certs" : {
+			"root"			: "certs/ca-crt.pem",
+			"certFile"		: "certs/d345e9bc0e-certificate.pem.crt",
+			"privateKeyFile"	: "certs/d345e9bc0e-private.pem.key",
+			"publicKeyFile"		: "certs/d345e9bc0e-public.pem.key"
+	},
+	"aws"	: {
+			"endpoint"		: "a31vhs1q9ma8f1.iot.us-east-1.amazonaws.com",
+			"port"			: 8883
+	}
+}
